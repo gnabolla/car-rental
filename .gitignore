@@ -1,0 +1,29 @@
+# Database files
+database/car_rental.db
+database/car_rental.db-journal
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Test files
+test_*.html
+test_*.php
+
+# Backup files
+*.bak
+*.backup
